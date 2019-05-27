@@ -159,8 +159,8 @@ public void testProductQuery() throws Exception {
     }
 }
 ```
-作者:  [@陈楠][1]
-Email: 465360798@qq.com
+Author: [XYa.]
+Email: mengxiansenn@163.com
 
-<完>
+END
 
