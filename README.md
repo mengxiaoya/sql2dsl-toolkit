@@ -16,9 +16,6 @@ sql2dsl-toolkit
 
 
 ## 一、SQL解析生成DSL使用示例
-
-**[SQL语法帮助手册戳这里: https://github.com/gitchennan/elasticsearch-query-toolkit/wiki/elasticsearch-query-toolkit-help-doc](https://github.com/gitchennan/elasticsearch-query-toolkit/wiki/elasticsearch-query-toolkit-help-doc)**
-```java
 String sql = "select * from index.order where status='SUCCESS' and price > 100 order by nvl(pride, 0) asc routing by 'JD' limit 0, 20";
 
 ElasticSql2DslParser sql2DslParser = new ElasticSql2DslParser();
