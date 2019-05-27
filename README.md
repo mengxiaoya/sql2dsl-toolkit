@@ -1,4 +1,4 @@
-elasticsearch-query-tookit
+sql2dsl-toolkit
 ====================================
 
 版本
@@ -12,7 +12,7 @@ elasticsearch-query-tookit
 
 介绍
 -------------
-> `elasticsearch-query-tookit`是一款基于SQL查询elasticsearch编程工具包，支持SQL解析生成DSL，支持JDBC驱动，支持和Spring、MyBatis集成，提供Java编程接口可基于此工具包二次开发
+> `sql2dsl-toolkit`是一款基于SQL查询elasticsearch编程工具包，支持SQL解析生成DSL，支持JDBC驱动，支持和Spring、MyBatis集成，提供Java编程接口可基于此工具包二次开发
 
 
 ## 一、SQL解析生成DSL使用示例
