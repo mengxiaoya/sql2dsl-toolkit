@@ -159,8 +159,3 @@ public void testProductQuery() throws Exception {
     }
 }
 ```
-Author: [XYa.]
-Email: mengxiansenn@163.com
-
-END
-
